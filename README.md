@@ -29,6 +29,10 @@ CPAR (A Dataset for Chinese Person Attribute Recognition)/中文人物属性识�
 11. 性别：人的性别
 12. 逝世日期:死亡日期
 
+
+
+## 数据切分
+
 各个属性值域以及数据量如下所示
 
 属性 | 值域 | 数据量
@@ -45,8 +49,6 @@ CPAR (A Dataset for Chinese Person Attribute Recognition)/中文人物属性识�
 学位 | 中文 | 33110
 身高 | 数字、字母、中文混合 | 2061
 体重 | 数字、字母、中文混合 | 1246
-
-## 数据切分
 
 对于每个属性，都使用五折交叉验证的方法进行实验。数据按照8：1：1切分成train、dev、test
 
