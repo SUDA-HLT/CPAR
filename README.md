@@ -71,4 +71,4 @@ CPAR (A Dataset for Chinese Person Attribute Recognition)/中文人物属性识�
 
 ## 参考文献
 如果使用CPAR数据，请引用下列文献：
-* 马进（待更新）
+* 马进, 杨一帆, 陈文亮, 基于远程监督的人物属性抽取研究. CCL-2019, 2019
